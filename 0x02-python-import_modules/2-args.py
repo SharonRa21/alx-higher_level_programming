@@ -12,4 +12,4 @@ def argv(*args):
         break
 
 if __name__ == '__main__':
-    argv()
+    argv("Sharon", "Sam")
